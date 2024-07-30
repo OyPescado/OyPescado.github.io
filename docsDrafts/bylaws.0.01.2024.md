@@ -1,11 +1,10 @@
-<div align="justify">
 # Endgame Declaration of Bylaws
 
 Note: This is an Unofficial Document. This statement will be removed upon successful acceptance by the Clan Leadership.
 
 ## Preamble
 
-This Document, upon agreement and commitment by the Clan Leads of Endgame, formally details the Process by which Endgame is to be Administered and outlines Guidance to all Members. The Document strives to create a Model for Governance that clearly defines and delineates Expectations, Responsibilities and Privileges as set forth by Endgame Leadership as the Clan executes its goal of maintaining Operational Excellence
+This Document, upon agreement and commitment by the Clan Leads of Endgame, formally details the Process by which Endgame is to be Administered and outlines Guidance to all Members. The Document strives to create a Model for Governance that clearly defines and delineates Expectations, Responsibilities and Privileges as set forth by Endgame Leadership as the Clan executes its goal of maintaining Operational Excellence.
 
 ## Leadership
 _Leadership in Endgame is a Privilege and Responsibility._
@@ -48,4 +47,3 @@ _Note_: The following statement is a personal recommendation that I believe to b
 `The process by which Amendments are Accepted requires, at minimum, a supermajority (greater than or equal to eighty (80) percent) of Clan Leads to vote in the affirmative. If a supermajority is not obtained, but the Proposed Amendment possesses a simple majority, the Vote is expanded to all Leadership Members. At the conclusion of that vote, if the Combined Leadership obtain a supermajority in the affirmative, the Proposal is Accepted.`
 
 _EndNote_: This is the conclusion of what I have written. There are plenty of other aspects with which we could explicitly develop procedures for, but at this point I believe it is sufficiently robust to begin the process of soliciting feedback regarding its content for revisions, consideration for implementation, or for the collective group to pan the idea and suggest something else. At the very least, this will get the conversation started and, believe me, I will be far from offended if it’s widely unpopular.
-</div>
